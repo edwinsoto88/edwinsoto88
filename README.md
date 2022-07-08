@@ -8,7 +8,7 @@ I currently go to school at the University of North Texas(UNT). I'm majoring in 
 
 * 🌍  I'm based in Denton, TX
 * ✉️  You can contact me at [edwinjaresito@gmail.com](mailto:edwinjaresito@gmail.com)
-* 🚀  I'm currently working on [SHPE UNT Website](http://https://github.com/edwinsoto88/SHPE-UNT-Website)
+* 🚀  I'm currently working on [SHPE UNT Website](https://github.com/edwinsoto88/SHPE-UNT-Website)
 * 🧠  I'm learning AWS and Jekyll
 * 🤝  I'm open to collaborating on Cloud and Web Development Projects
 
