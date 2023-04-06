@@ -6,7 +6,7 @@ Software Engineer | Front-End Developer
 
 I currently go to school at the University of North Texas(UNT). I'm majoring in Computer Science and I want to learn more about what programming has to offer. Currently, I'm learning data structures and algorithms and I'm posting most of my projects on GitHub soon. I'm always open to learning new topics and skills! The computer science field is vast, as a result, a lot of programmers offer different viewpoints and that's what I like about this field
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I'm based in Denton, TX
 * ✉️  You can contact me at [edwinjaresito@gmail.com](mailto:edwinjaresito@gmail.com)
 * 🚀  I'm currently working on [Color Vision Accessibility Website](http://github.com/edwinsoto88/color-vision)
 * 🧠  I'm learning JavaScript and Bootstrap
