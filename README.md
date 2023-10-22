@@ -8,8 +8,8 @@ I currently go to school at the University of North Texas(UNT). I'm majoring in 
 
 * 🌍  I'm based in Denton, TX
 * ✉️  You can contact me at [edwinjaresito@gmail.com](mailto:edwinjaresito@gmail.com)
-* 🚀  I'm currently working on [Color Vision Accessibility Website](http://github.com/edwinsoto88/color-vision)
-* 🧠  I'm learning JavaScript and Bootstrap
+* 🚀  I'm currently working on [UNT Rides Capstone Project](http://github.com/edwinsoto88/capstoneproject)
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on Cloud Development and Web Design Projects
 
 ### Skills
